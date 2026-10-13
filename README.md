@@ -8,6 +8,12 @@ Each project includes a documented input contract, configurable policies, synthe
 
 Ten projects have standalone repositories. Ten are organized as independent projects in the [Enterprise Python Cybersecurity Toolkit](https://github.com/bajily/Python-Cybersecurity-Toolkit/tree/main/enterprise).
 
+## Enterprise penetration testing
+
+[Enterprise Pentest Suite](https://github.com/bajily/enterprise-pentest-suite) provides **10 separately runnable assessment programs** with explicit scopes, bounded live requests, redacted JSON/SARIF/Markdown reports and observed retest tracking.
+
+Programs cover web posture, CORS, API authorization canaries, unintended artifact exposure, TCP reachability, verified TLS, pre-authentication SSH offers, DNS policies, OpenID Connect metadata and local JWT review. Source includes synthetic examples, tests and documented limitations. This initial suite supports selected tasks in an authorized assessment; it requires company-specific evaluation.
+
 ## Enterprise security project directory
 
 ### Identity and cloud
@@ -65,3 +71,4 @@ These tools support controlled review and triage. They require accurate exports,
 أنا أنس، مهتم بالأمن السيبراني والبرمجة باستخدام Python. يضم هذا الحساب 20 مشروعًا دفاعيًا لفحص الصلاحيات والسحابة والشبكات والحاويات وسلسلة توريد البرمجيات، وتحليل السجلات والتصيّد ومؤشرات التهديد والتخطيط للاستجابة للحوادث.
 
 لكل مشروع كود قابل للتشغيل، ومدخلات وسياسات موثقة، وأمثلة تجريبية واختبارات. يلزم تقييم الأدوات على بيئة الشركة قبل الاعتماد التشغيلي عليها.
+
