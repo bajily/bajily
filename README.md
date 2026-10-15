@@ -62,6 +62,14 @@ The initial release passes **269 automated tests** locally. Synthetic SARIF repo
 
 These tools support controlled review and triage. They require accurate exports, company-specific policies, false-positive evaluation and independent review before operational reliance. They do not provide a universal protection guarantee or compliance certification.
 
+## Support the open-source work
+
+[❤️ Sponsor @bajily on GitHub](https://github.com/sponsors/bajily)
+
+Optional sponsorship helps support documentation, reproducible examples, automated tests and bug fixes across these open-source Python security and automation projects.
+
+[ادعم تطوير المشاريع مفتوحة المصدر عبر GitHub Sponsors](https://github.com/sponsors/bajily).
+
 ## Previous learning projects
 
 [SOC authentication triage](https://github.com/bajily/SOC-Portfolio-) · [File integrity monitoring](https://github.com/bajily/file-integrity-monitor) · [Python file automation](https://github.com/bajily/automation-workbench) · [Python terminal game](https://github.com/bajily/Python-game)
@@ -71,4 +79,5 @@ These tools support controlled review and triage. They require accurate exports,
 أنا أنس، مهتم بالأمن السيبراني والبرمجة باستخدام Python. يضم هذا الحساب 20 مشروعًا دفاعيًا لفحص الصلاحيات والسحابة والشبكات والحاويات وسلسلة توريد البرمجيات، وتحليل السجلات والتصيّد ومؤشرات التهديد والتخطيط للاستجابة للحوادث.
 
 لكل مشروع كود قابل للتشغيل، ومدخلات وسياسات موثقة، وأمثلة تجريبية واختبارات. يلزم تقييم الأدوات على بيئة الشركة قبل الاعتماد التشغيلي عليها.
+
 
