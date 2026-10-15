@@ -1,12 +1,25 @@
-# Anas Elgaili · Python Cybersecurity & Security Automation
+# Anas Elgaili (@bajily) · Python Cybersecurity Tools
 
-Aspiring cybersecurity analyst building open-source tools for enterprise security evaluation, defensive analysis and repeatable security automation.
+I'm Anas Elgaili, an aspiring cybersecurity analyst building **open-source Python cybersecurity tools**, security automation and scoped penetration-testing utilities for authorized assessments.
+
+[Security project directory](#enterprise-security-project-directory) · [Penetration-testing programs](#enterprise-penetration-testing) · [Tests and practical limits](#validation-and-practical-scope) · [Sponsor open-source development](https://github.com/sponsors/bajily)
+
+أنا أنس، أطوّر أدوات Python مفتوحة المصدر للأمن السيبراني والأتمتة واختبار الاختراق المصرّح به. اختر المشروع المناسب من الدليل أدناه، وابدأ بالأمثلة التجريبية قبل تقييمه على بيئتك.
 
 This portfolio includes **20 independently runnable Python security projects** covering IAM access reviews, cloud security posture, network segmentation, TLS monitoring, DevSecOps, endpoint baselines and incident response planning.
 
 Each project includes a documented input contract, configurable policies, synthetic examples, automated tests, and JSON, SARIF 2.1.0 and Markdown reports. The implementations use the Python standard library.
 
 Ten projects have standalone repositories. Ten are organized as independent projects in the [Enterprise Python Cybersecurity Toolkit](https://github.com/bajily/Python-Cybersecurity-Toolkit/tree/main/enterprise).
+
+## Choose a starting point
+
+| Your goal | Start here |
+|---|---|
+| Try a web, API or network assessment | [Run the Enterprise Pentest Suite offline demos](https://github.com/bajily/enterprise-pentest-suite#python-penetration-testing-quickstart). |
+| Review a Kubernetes configuration export | [Run the Python Cybersecurity Toolkit example](https://github.com/bajily/Python-Cybersecurity-Toolkit#run-a-python-security-audit). |
+| Review cloud permissions or software dependencies | Explore [IAM access-review tools](#identity-and-cloud) and [software supply-chain security tools](#software-delivery). |
+| Organize local files with a preview | Try [Python Automation Workbench](https://github.com/bajily/automation-workbench). |
 
 ## Enterprise penetration testing
 
@@ -79,5 +92,6 @@ Optional sponsorship helps support documentation, reproducible examples, automat
 أنا أنس، مهتم بالأمن السيبراني والبرمجة باستخدام Python. يضم هذا الحساب 20 مشروعًا دفاعيًا لفحص الصلاحيات والسحابة والشبكات والحاويات وسلسلة توريد البرمجيات، وتحليل السجلات والتصيّد ومؤشرات التهديد والتخطيط للاستجابة للحوادث.
 
 لكل مشروع كود قابل للتشغيل، ومدخلات وسياسات موثقة، وأمثلة تجريبية واختبارات. يلزم تقييم الأدوات على بيئة الشركة قبل الاعتماد التشغيلي عليها.
+
 
 
